@@ -11,7 +11,7 @@ const Navbar = (props) => {
         <div className='flex bg-gray-300 text-white justify-around p-3 border-b-2 border-b-black'>
 
             <div className='text-2xl font-bold justify-center items-center text-center flex text-black'>
-                <h1>VED SECUTITY</h1>
+                <h1>VED SECURITY</h1>
             </div>
 
             <div className='flex justify-center items-center text-center gap-6'>
